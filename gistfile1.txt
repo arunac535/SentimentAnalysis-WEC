@@ -1,7 +1,0 @@
-https://monkeylearn.com/sentiment-analysis/#:~:text=Sentiment%20analysis%20(or%20opinion%20mining,feedback%2C%20and%20understand%20customer%20needs.
-https://lazarinastoy.com/sentiment-analysis-theory-methods-applications/
-https://www.npmjs.com/package/natural#sentiment-analysis
-https://techvidvan.com/tutorials/python-sentiment-analysis/
- Refrences
- https://www.youtube.com/channel/UCxladMszXan-jfgzyeIMyvw
- https://www.youtube.com/watch?v=SMecj9AIDF8&t=3405s
